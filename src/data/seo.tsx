@@ -1,38 +1,38 @@
 const SEO = [
-	{
-		page: "home",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+  {
+    page: "home",
+    description:
+      "Sou um desenvolvedor de backend com experiência em Node.js. Tenho conhecimento em construir aplicações web escaláveis, seguras e confiáveis utilizando diversos frameworks e tecnologias.",
+    keywords: ["Asaf", "Asaf A", "Asaf Araujo"],
+  },
 
-	{
-		page: "about",
-		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+  {
+    page: "about",
+    description:
+      "Sou um desenvolvedor de backend com experiência em Node.js. Tenho conhecimento em construir aplicações web escaláveis, seguras e confiáveis utilizando diversos frameworks e tecnologias.",
+    keywords: ["Asaf", "Asaf A", "Asaf Araujo"],
+  },
 
-	{
-		page: "articles",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+  {
+    page: "articles",
+    description:
+      "Coleção cronológica dos meus pensamentos detalhados sobre programação, liderança, design de produtos e muito mais.",
+    keywords: ["Asaf", "Asaf A", "Asaf Araujo"],
+  },
 
-	{
-		page: "projects",
-		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+  {
+    page: "projects",
+    description:
+      "Trabalhei em uma variedade de projetos ao longo dos anos e estou orgulhoso do progresso que fiz. Muitos desses projetos são de código aberto e estão disponíveis para que outros possam explorar e contribuir.",
+    keywords: ["Asaf", "Asaf A", "Asaf Araujo"],
+  },
 
-	{
-		page: "contact",
-		description:
-			"If you're interested in collaborating on a project, feel free to reach out to me. I'm always open to new ideas and opportunities.",
-		keywords: ["Tharindu", "Tharindu N", "Tharindu Nayanajith"],
-	},
+  {
+    page: "contact",
+    description:
+      "Se você estiver interessado em colaborar em um projeto, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas ideias e oportunidades.",
+    keywords: ["Asaf", "Asaf A", "Asaf Araujo"],
+  },
 ];
 
 export default SEO;

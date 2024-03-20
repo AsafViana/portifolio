@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "lib": ["ESNext"],
+    "lib": ["dom", "esnext"],
     "target": "ESNext",
     "module": "ESNext",
     "moduleDetection": "force",
@@ -15,7 +15,7 @@
     "noFallthroughCasesInSwitch": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "noPropertyAccessFromIndexSignature": true
+    "noPropertyAccessFromIndexSignature": true,
   },
   "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]

@@ -53,6 +53,7 @@ const Contact = () => {
             <div className="contact-socials">
               <Socials />
             </div>
+            
           </div>
 
           <div className="page-footer">

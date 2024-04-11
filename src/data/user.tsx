@@ -81,7 +81,7 @@ const INFO = {
       title: "Pokedex",
       description:
         "Aplicação React utilizando Tailwind que recria uma pokedex, consumindo a api PokeApi para a exibição dos pokemons.",
-      logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png",
+      logo: "https://cdn.worldvectorlogo.com/logos/react-1.svg",
       linkText: "Ver projeto:",
       link: "https://github.com/AsafViana/prova-versotech",
     },
